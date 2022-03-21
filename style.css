@@ -1,7 +1,10 @@
 body {
-    font-family: "Arial";
+    font-family: "karakaze";
   }
-
+@font-face {
+    font-family: "karakaze";
+    src: url(desktop/simpleform_website/karakaze_font/karakaze-R.ttf) format(truetype);
+}
 li{
     list-style:none;
 }
