@@ -1,5 +1,5 @@
 body {
-    font-family: "Avenir Next";
+    font-family: "Arial";
   }
 
 li{
@@ -11,27 +11,28 @@ li{
   }
 
 .header-logo{
-    font: size 60px;
+    font: size 80px;
     float:left;
-    padding:20px 40px;
+    padding:40px 40px;
 }
 
 .header {
     background-color: #f7f2b4;
-    color:#ceccf3;
+    color:rgb(252, 121, 252);
     height:90px;
   }
 
 .main {
     background-color: #bdf7f1;
-    height: 600px;
+    height: 900px;
   }
 .copy-container h1{
-    font-size:140px;
+    font-size:70px;
+    color:rgb(241, 172, 184);
     border-bottom:3px solid #f7f2b4;
 }
 .copy-container span{
-    color:beige;
+    color:rgb(245, 3, 124);
 }
 .contact-form{
     padding-top:100px;
@@ -50,7 +51,7 @@ input,textarea{
 }
 .footer {
     background-color: #ceccf3;
-    height: 270px;
+    height: 60px;
   }
 .footer-logo{
     font-size:32px;
