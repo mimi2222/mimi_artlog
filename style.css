@@ -24,7 +24,7 @@ li{
 
 .main {
     background-color: #bdf7f1;
-    height: 900px;
+    height: 3000px;
   }
 .copy-container h1{
     font-size:70px;
@@ -63,4 +63,5 @@ input,textarea{
 
 .footer-list li{
     padding-bottom:20px;
+    float:right;
 }
